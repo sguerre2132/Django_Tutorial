@@ -1,4 +1,3 @@
-Thumbs.db*
-ehthumbs*.db
-[Dd]esktop.ini
-$RECYCLE.BIN/
+.vscode/
+.history/
+*.code-workspace
